@@ -1,0 +1,4 @@
+Hello Jenkins!
+
+This file tests automatic builds using GitHub.
+Repository: devops-lab-1MS24CI030
